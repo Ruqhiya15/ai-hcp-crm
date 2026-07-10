@@ -156,6 +156,6 @@ Natural language input automatically fills the CRM form via the AI agent.
 
 # 👩‍💻 Author
 
-**Ketki Vijay Mohite**  
-📧 [ketkimohite214@gmail.com](mailto:ketkimohite214@gmail.com)  
-🎓 MCA Student | Backend Developer & AI Engineer
+**Ruqhiya Mehamoodi Begum**  
+📧 [ruqhiya64@gmail.com](mailto:ruqhiya64@gmail.com)  
+🎓 BE Student 
